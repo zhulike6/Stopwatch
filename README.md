@@ -5,6 +5,7 @@ With EGO1 as the core, a stopwatch is designed using Verilog HDL hardware descri
 2. High four-digit positive timing and countdown conversion;
 3. Reset, the button reset function can be realized in the state of timing and countdown;
 4. Count, high four (four digital tubes on the left) pause and count;
+
 一款基于Verilog语言设计的秒表
 以 FPGA 器件EGO1为核心，使用Verilog HDL硬件描述语言设计了一款秒表。利用状态机思想，实现以下功能：
 1. 高四位（左侧四个数码管）低四位（右侧四个数码管）00.00s~59.99s同时正计时；
